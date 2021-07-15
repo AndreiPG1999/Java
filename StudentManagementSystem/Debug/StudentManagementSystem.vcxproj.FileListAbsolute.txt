@@ -1,0 +1,2 @@
+E:\Projects\C++\StudentManagementSystem\Debug\StudentManagementSystem.exe
+E:\Projects\C++\StudentManagementSystem\Debug\StudentManagementSystem.pdb

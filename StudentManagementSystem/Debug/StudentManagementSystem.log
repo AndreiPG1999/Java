@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\Projects\C++\StudentManagementSystem\Source.cpp(44,6): warning C4101: 'n': unreferenced local variable
+E:\Projects\C++\StudentManagementSystem\Source.cpp(90,17): warning C4101: 'yearly_average': unreferenced local variable
+E:\Projects\C++\StudentManagementSystem\Source.cpp(172,9): warning C4101: 'grade': unreferenced local variable
+E:\Projects\C++\StudentManagementSystem\Source.cpp(171,6): warning C4101: 'n': unreferenced local variable
+E:\Projects\C++\StudentManagementSystem\Source.cpp(238,20): warning C4101: 'yearly_average': unreferenced local variable
+  StudentManagementSystem.vcxproj -> E:\Projects\C++\StudentManagementSystem\Debug\StudentManagementSystem.exe
