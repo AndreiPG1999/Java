@@ -1,4 +1,0 @@
-﻿  Source.cpp
-E:\Projects\C++\Car Rental System\Source.cpp(13,11): warning C4309: 'initializing': truncation of constant value
-E:\Projects\C++\Car Rental System\Source.cpp(42,7): warning C4101: 'chu': unreferenced local variable
-  Car Rental System.vcxproj -> E:\Projects\C++\Car Rental System\Debug\Car Rental System.exe
