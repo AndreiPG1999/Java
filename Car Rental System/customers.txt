@@ -1,9 +1,0 @@
-Invoice: o9vrQpRK
-Customer first name: Andrei
-Customer last name: Popescu
-Social security number:123456789
-Car model: 1
-Car color: green
-Number of days: 12
-Rental fee: 672
----------------------------------------
